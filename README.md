@@ -1,8 +1,15 @@
 ## Hi there 👋 I'm Daisy
 # Let's connect and have a chat!
-<a href="[https://www.linkedin.com/in/daisy-cherono-4a059522b/]">
-  <img height="50" src="[https://www.iconfinder.com/icons/9693538/linkedin_social_media_social_communication_icon]"/>
+<a href="https://www.linkedin.com/in/daisy-cherono-/">
+  <img height="50" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
 </a>
+<a href="https://medium.com/@jepchumbadaisy96">
+  <img height="50" src="https://img.shields.io/badge/Medium-Read-03a57a">
+</a>
+<a href="https://sites.google.com/view/daisy-cherono/home">
+  <img height="50" src="https://img.shields.io/badge/Google%20Sites-Visit-blue">
+</a>
+
 
 ## 🔧 Technologies & Tools
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org)
