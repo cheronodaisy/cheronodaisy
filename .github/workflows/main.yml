@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,9 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       - name: Snake Animation
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: cheronodaisy
           svg_out_path: dist/github-contribution-grid-snake.svg
