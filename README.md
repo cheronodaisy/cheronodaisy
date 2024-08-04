@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Daisy
 # Let's connect and have a chat!
 <a href="https://www.linkedin.com/in/daisy-cherono-/">
-  <img height="50" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+  <img height="30" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
 </a>
 <a href="https://medium.com/@jepchumbadaisy96">
-  <img height="50" src="https://img.shields.io/badge/Medium-Read-03a57a">
+  <img height="30" src="https://img.shields.io/badge/Medium-Read-03a57a">
 </a>
 <a href="https://sites.google.com/view/daisy-cherono/home">
-  <img height="50" src="https://img.shields.io/badge/Google%20Sites-Visit-blue">
+  <img height="30" src="https://img.shields.io/badge/Portfolio-View-red">
 </a>
 
 
