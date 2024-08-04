@@ -26,4 +26,12 @@
 [![Chroma DB](https://img.shields.io/badge/Chroma%20DB-Vector%20DB-darkred)](https://www.trychroma.com/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-white)](https://www.pinecone.io/)
 -->
+
+
+
+
+
+
+
+
 ![Snake animation](https://github.com/cheronodaisy/cheronodaisy/blob/output/github-contribution-grid-snake.svg)
