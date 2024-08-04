@@ -1,17 +1,20 @@
 ## Hi there 👋 I'm Daisy
-# Let's connect and have a chat!
+## Let's connect and have a chat!
 <a href="https://www.linkedin.com/in/daisy-cherono-/">
-  <img height="30" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+  <img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
 </a>
 <a href="https://medium.com/@jepchumbadaisy96">
-  <img height="30" src="https://img.shields.io/badge/Medium-Read-03a57a">
+  <img height="20" src="https://img.shields.io/badge/Medium-Read-03a57a">
 </a>
 <a href="https://sites.google.com/view/daisy-cherono/home">
-  <img height="30" src="https://img.shields.io/badge/Portfolio-View-red">
+  <img height="20" src="https://img.shields.io/badge/Portfolio-View-red">
+</a>
+<a href="mailto:jepchumbadaisy96@gmail.com">
+  <img height="20" src="https://img.shields.io/badge/Email-Contact-red">
 </a>
 
 
-## 🔧 Technologies & Tools
+## 🔧 My Technologies & Tools
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org)
 ![FlaskREST](https://img.shields.io/badge/FLASK-REST-ff1709?style=for-the-badge&logo=flask&logoColor=white&color=ff1709&labelColor=gray)
 ![React.js](https://img.shields.io/badge/REACTJS-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D)
@@ -26,8 +29,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
+[![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)](https://github.com/langchain-ai/langchain)
+[![OpenAI API](https://img.shields.io/badge/OpenAI%20API-Use-blue)](https://beta.openai.com/)
+[![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE)](https://airflow.apache.org/)
+[![Chroma DB](https://img.shields.io/badge/Chroma%20DB-Database-brightgreen)](https://www.trychroma.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-blue)](https://www.pinecone.io/)
 -->
-
-
-- 📫 How to reach me :
-- via email jepchumbadaisy96@gmail.com
